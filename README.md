@@ -44,14 +44,14 @@ Additional findings:
 - Junior Sales satisfaction × overtime — grouped horizontal bars.
 - Junior Sales left vs retained — compact doughnut chart.
 
-**Note:** Some visuals intentionally use fixed populations (such as junior Sales). Confirm the workbook's slicer report connections before interpreting filtered views.
 
 ## Workbook structure
 
 | Worksheet | Purpose |
 |---|---|
 | `HRData` | Cleaned employee data (Power Query output) and derived segmentation fields. |
-| `Analysis` | PivotTables and chart helper ranges. |
+| `Basis Analysis` | PivotTables and chart helper ranges for Basic Analysis. |
+| `Advance Analysis` | PivotTables and chart helper ranges for Advance Analysis. |
 | `Dashboard` | KPI cards, slicers, visualizations, and decision-support insights. |
 
 ### Preparation steps
@@ -75,7 +75,7 @@ HR-Attrition-Analytics/
     └── dashboard.png             # Optional: add your own screenshot
 ```
 
-> Add your actual workbook and a screenshot to the repository. The documents and README do not contain an embedded dashboard screenshot.
+> [Dashboard Preview](https://github.com/Himanshu584/Adecco_HR_Analytics/blob/main/dashboard_screenshot.png)
 
 ## Recommendations
 
@@ -103,6 +103,3 @@ See [`HR_Attrition_Case_Study.docx`](HR_Attrition_Case_Study.docx) for the full 
 4. Review the two Word documents for interpretation and implementation guidance.
 5. If the underlying dataset changes, refresh Power Query and PivotTables and verify chart/slicer connections.
 
-## Project status
-
-Dashboard analysis completed. Workbook and optional screenshot should be added to this repository before publication.
