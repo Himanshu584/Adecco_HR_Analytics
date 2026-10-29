@@ -71,8 +71,7 @@ HR-Attrition-Analytics/
 ├── HR_Attrition_Case_Study.docx
 ├── HR_Attrition_Solution_Guide.docx
 ├── README.md
-└── assets/
-    └── dashboard.png             # Optional: add your own screenshot
+└── dashboard.png  
 ```
 
 ![Dashboard Preview](https://github.com/Himanshu584/Adecco_HR_Analytics/blob/main/dashboard_screenshot.png)
