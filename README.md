@@ -75,7 +75,7 @@ HR-Attrition-Analytics/
     └── dashboard.png             # Optional: add your own screenshot
 ```
 
-> [Dashboard Preview](https://github.com/Himanshu584/Adecco_HR_Analytics/blob/main/dashboard_screenshot.png)
+![Dashboard Preview](https://github.com/Himanshu584/Adecco_HR_Analytics/blob/main/dashboard_screenshot.png)
 
 ## Recommendations
 
